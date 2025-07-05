@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+}
+h3 {
+    color: #a29bfe;
+    text-align: center;
+    margin: 0;
+}
+img {
+    width: 300px;
+    display: block;
+    margin: auto;
+}
+.project {
+    background: #81ecec;
+}
+.project-two {
+    background: #ff7675;
+    margin: 10px 0px;
+}
+.project-three {
+    background: #55efc4;
+}
+
