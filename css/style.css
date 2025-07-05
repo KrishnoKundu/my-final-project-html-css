@@ -1,6 +1,9 @@
 body {
     margin: 0;
 }
+.clr {
+    clear: both;
+}
 h3 {
     color: #a29bfe;
     text-align: center;
@@ -9,7 +12,6 @@ h3 {
 img {
     width: 300px;
     display: block;
-    margin: auto;
 }
 .project {
     background: #81ecec;
@@ -20,5 +22,14 @@ img {
 }
 .project-three {
     background: #55efc4;
+}
+.project img {
+    float: left;
+}
+.project-two img {
+    float: left;
+}
+.project-three img {
+    float: left;
 }
 
